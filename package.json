@@ -1,0 +1,27 @@
+{
+  "name": "react-core",
+  "version": "1.0.0",
+  "description": "react without using any third party framework",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roshanrejik/react-core.git"
+  },
+  "author": "Roshan Reji K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roshanrejik/react-core/issues"
+  },
+  "homepage": "https://github.com/roshanrejik/react-core#readme",
+  "dependencies": {
+    "@babel/standalone": "^7.26.6",
+    "parcel": "^2.13.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
